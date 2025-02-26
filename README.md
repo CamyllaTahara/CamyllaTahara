@@ -5,7 +5,7 @@
 
 ## 🛠 Technologies and Tools:
 - 🗄 **Databases** (SQL, MySQL)  
-- 🐍 **Python** | ☕ **Java** | ⚡ **MicroPython**  
+- 🐍 **Python** | ☕ **Java** | ⚡ **MicroPython** | 📜 JavaScript
 - 🎨 **CSS** | HTML  
 
 ## 📚 Currently Learning:
