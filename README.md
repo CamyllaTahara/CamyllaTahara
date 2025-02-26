@@ -9,7 +9,8 @@
 - 🎨 **CSS** | HTML  
 
 ## 📚 Currently Learning:
-- 📡 **IoT (Internet of Things)**  
+- 📡 **IoT (Internet of Things)**
+- 🛡 **Information Security (Cryptography, Hashing, Salt)** 
 - 🇬🇧 **English**  
 
 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/camylla-tahara/)!
